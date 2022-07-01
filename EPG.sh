@@ -16,7 +16,7 @@ done
 echo ""
 echo "Emails Generated"
 echo ""
-exit
+
             ;;
         "Password Generate")
             echo ""
@@ -27,10 +27,10 @@ done
 
 echo ""
 echo "Passwords Generated"
-echo "" & exit
+echo ""
             ;;
         "Option 3")
-            echo "more coming to this script soon!"
+            echo "more coming to this script soon!" & exit
             ;;
         "Quit")
             break
