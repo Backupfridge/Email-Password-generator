@@ -9,7 +9,7 @@ NOTE: I DO NOT USE THIS TO MAKE MY OWN LOGINS
 ---------------------------
 How to run:
 
-1.download code
+1.download code <br />
 2.unzip
 3.make sure you set permissions of the files "EPGen.sh" to be executable
 4.open terminal to the DIR of the files
