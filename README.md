@@ -1,7 +1,7 @@
 # Email-Password-generator
 simple bash script that can generate a email or a strong password
 
-Q: what dose EPGen mean?
+Q: what dose EPG mean?
 
 A: email password generate
 
